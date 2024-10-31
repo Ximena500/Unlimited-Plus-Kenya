@@ -42,7 +42,7 @@ At **Unlimited Plus Kenya**, we pride ourselves on our commitment to quality, re
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/unlimited-plus-kenya.git
+   git clone https://github.com/Ximena500/unlimited-plus-kenya.git
    ```
 
 2. **Navigate to the project directory:**
